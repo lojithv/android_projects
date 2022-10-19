@@ -33,14 +33,14 @@
                     android:layout_marginRight="20dp"
                     android:layout_weight="1"
                     android:gravity="end"
-                    android:text="ID" />
+                    android:text="@string/student_id_label" />
 
                 <TextView
                     android:id="@+id/studentId"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="101243840" />
+                    android:text="@string/student_id" />
             </LinearLayout>
         </LinearLayout>
 
@@ -61,14 +61,14 @@
                     android:layout_marginRight="20dp"
                     android:layout_weight="1"
                     android:gravity="end"
-                    android:text="Name" />
+                    android:text="@string/student_name_label" />
 
                 <TextView
                     android:id="@+id/studentName"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Wissam Hamed" />
+                    android:text="@string/student_name" />
             </LinearLayout>
         </LinearLayout>
 

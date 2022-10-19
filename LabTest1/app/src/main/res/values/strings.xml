@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">LabTest1</string>
     <string name="menu_item">Second</string>
+    <string name="student_id_label">ID</string>
+    <string name="student_id">101243840</string>
+    <string name="student_name_label">Name</string>
+    <string name="student_name">Wissam Hamed</string>
 </resources>
