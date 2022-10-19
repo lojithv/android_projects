@@ -1,4 +1,4 @@
-package com.example.labtest1;
+package com.example.testchildproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,7 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        //test change
     }
 }
